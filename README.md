@@ -8,5 +8,7 @@ You need to have python(>=3.0) installed.
 
 # BmiCalculator will tell you...
 Your BMI and which category you belong.
+
 Minimum and maximum weight of your height.
+
 Body FAT percentage.
